@@ -41,8 +41,8 @@
 			<tau>0</tau>
 			<solid type="blatzkop">
 				<density>1</density>
-				<mu>0.002329</mu>
-				<v>0.397</v>
+				<mu>0.001777</mu>
+				<v>0.386</v>
 				<phi>.0</phi>
 			</solid>
 			<permeability type="perm-Holmes-Mow">
@@ -16415,5 +16415,6 @@
 			<var type="displacement"/>
 			<var type="Lagrange strain"/>
 			<var type="fluid pressure"/>
+		</plotfile>
 	</Output>
 </febio_spec>
